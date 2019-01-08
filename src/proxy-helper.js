@@ -1,3 +1,7 @@
+/**
+ * Code retrieve from https://github.com/request/request/blob/master/lib/getProxyFromURI.js
+ * and slightly modified to fit our needs.
+ */
 'use strict';
 
 function formatHostname(hostname) {
