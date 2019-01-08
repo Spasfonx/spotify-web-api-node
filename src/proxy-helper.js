@@ -1,6 +1,6 @@
 /**
- * Code retrieve from https://github.com/request/request/blob/master/lib/getProxyFromURI.js
- * and slightly modified to fit our needs.
+ * Code retrieved from https://github.com/request/request/blob/master/lib/getProxyFromURI.js
+ * and slightly modified to meet our needs.
  */
 'use strict';
 
